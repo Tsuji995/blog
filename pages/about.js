@@ -40,36 +40,35 @@ export default function About() {
 
               <PostBody>
               <p>
-               texttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttext
+               texttexttexttexttex
               </p>
               <h2>texttexttexttexttexttexttext</h2>
               <p>
-              texttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttext
+              texttexttexttexttexttexttexttex
               </p>
               <p>
-              texttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttext
+              texttexttexttexttexttextt
               </p>
-              <h3>texttexttexttexttexttexttexttexttexttexttexttexttext</h3>
+              <h3>texttexttextxttexttexttexttexttext</h3>
               <p>
-              texttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttextte
-              ttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttext
+              texttexttexttexttex
               </p>
               <h2>FAQ</h2>
               <Accordion heading="texttexttexttexttexttexttexttext">
                 <p>
-                texttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttextt
+                texttexttexttexttexttexttexttexttexttex
                 exttexttexttexttexttexttexttexttext
                 </p>
               </Accordion>
               <Accordion heading="texttexttexttexttexttexttexttexttexttexttext">
                 <p>
-                texttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttextt
+                texttexttexttexttexttexttex
                 exttexttexttexttexttext
                 </p>
               </Accordion>
               <Accordion heading="texttexttexttexttexttexttexttexttexttext">
                 <p>
-                texttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttext
+                texttexttexttexttexttexttextt
                 </p>
               </Accordion>
               </PostBody>
