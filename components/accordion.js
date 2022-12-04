@@ -29,7 +29,7 @@ export default function Accordion ({ heading, children }) {
                 : '0px'
             }}
             >
-                <div className={styles.textInner}>{children}</div>
+            <div className={styles.textInner}>{children}</div>
 
             </div>
 

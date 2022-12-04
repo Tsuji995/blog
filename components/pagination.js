@@ -25,10 +25,10 @@ export default function Pagination ({
             {nextText && nextUrl && (
                 <li className={styles.next}>
                     <Link href={nextUrl}>
-                        <p className={styles.iconText}>
+                        <h3 className={styles.iconText}>
                             <span>{nextText}</span>
                             <FontAwesomeIcon icon={faChevronRight} color="var(--gray-25)" />
-                        </p>
+                        </h3>
                     </Link>
                 </li>
             )}

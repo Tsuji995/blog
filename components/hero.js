@@ -1,6 +1,13 @@
 import styles from 'styles/hero.module.css'
 import Image from 'next/image'
-import cube from 'images/cube.jpg'
+// import cube from 'images/cube.jpg'
+
+const cube = {
+  src: 'https://images.microcms-assets.io/assets/eac0c9a6dbf6440aa8a45dee1af0503f/5c13a427dfb242bca2a7573904f82ab7/cube.jpg',
+  height: 1300,
+  width: 1500,
+  blurDataURL: 'data:image/jpeg;base64,',
+}
 
 export default function Hero({ title, subtitle, imageOn = false }) {
     return (
