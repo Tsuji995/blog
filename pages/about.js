@@ -9,7 +9,7 @@ import Image from 'next/image'
 // import eyecatch from 'images/about.jpg'
 
 const eyecatch = {
-  src: 'https://images.microcms-assets.io/assets/eac0c9a6dbf6440aa8a45dee1af0503f/eb5bffdbc0504921afaccef1ee997b3e/about.jpg',
+  src: 'https://images.microcms-assets.io/assets/eac0c9a6dbf6440aa8a45dee1af0503f/08f8bbdd48f24588931a66ffbe8653de/%E3%83%A9%E3%83%BC%E3%83%A1%E3%83%B3.jpg',
   height: 960,
   width: 1920,
   blurDataURL: 'data:image/jpeg;base64,',
@@ -40,25 +40,22 @@ export default function About() {
 
               <PostBody>
               <p>
-               texttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttext
+               texttexttexttexttexttexttexttexttexttexttexttext
               </p>
               <h2>texttexttexttexttexttexttext</h2>
               <p>
-              texttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttext
-              </p>
+              texttexttexttexttexttexttexttexttextt
               <p>
-              texttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttext
-              </p>
-              <h3>texttexttexttexttexttexttexttexttexttexttexttexttext</h3>
+              texttexttexttexttexttexttexttexttextt
+              <h3>texttexttexttexttexttexttexttexttext</h3>
               <p>
-              texttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttextte
+              texttexttexttexttexttexttexttexttextte
               ttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttext
               </p>
               <h2>FAQ</h2>
               <Accordion heading="texttexttexttexttexttexttexttext">
                 <p>
-                texttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttextt
-                exttexttexttexttexttexttexttexttext
+                texttexttexttexttexttexttexttexttexttexttext
                 </p>
               </Accordion>
               <Accordion heading="texttexttexttexttexttexttexttexttexttexttext">
